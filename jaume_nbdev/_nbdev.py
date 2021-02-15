@@ -6,7 +6,7 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://Jaume-JCI.github.io/jaume_nbdev/"
+doc_url = "https://jaume-jci.github.io/jaume_nbdev/jaume_nbdev/"
 
 git_url = "https://github.com/Jaume-JCI/jaume_nbdev/tree/master/"
 
