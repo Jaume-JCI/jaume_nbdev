@@ -2,15 +2,15 @@
 > Following the tutorial based on github
 
 
-This file will become your README and also the index of your documentation.
+# Jaume nbdev
 
 ## Install
 
-`pip install your_project_name`
+Here we put some instructions
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Here you have some examples
 
 ```python
 say_hello ('Jaume')
